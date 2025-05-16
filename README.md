@@ -1,4 +1,4 @@
-# termux-neovim-nvchad 
+## termux-neovim-nvchad 
 
 ### **Actulizamos nuestro termux**
 
