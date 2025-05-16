@@ -7,7 +7,7 @@
 
 ### **clona el repositorio y dale permisos de ejecución al script**
 
-<pre><code>cd Install-neovim-nvchad/ && chmod +x install-nvchad.sh</code></pre>
+<pre><code>git clone https://github.com/indigo-steam/Termux-neovim-nvchad.git && cd Install-neovim-nvchad/ && chmod +x install-nvchad.sh</code></pre>
 
 ### ejecuta el script 
 
