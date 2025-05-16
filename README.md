@@ -1,5 +1,6 @@
 # termux-neovim-nvchad 
-
+### **Copyable Command Example**
+<pre><code>apt update && apt upgrade;</code></pre>
 # clona el repositorio y dale permisos de ejecución al script 
 
 cd Install-neovim-nvchad/ && chmod +x install-nvchad.sh
