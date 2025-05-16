@@ -9,7 +9,7 @@
 
 <pre><code>cd Install-neovim-nvchad/ && chmod +x install-nvchad.sh</code></pre>
 
-# ejecuta el script con 
+### ejecuta el script con 
 
 <pre><code>./install-nvchad.sh</code></pre>
 
