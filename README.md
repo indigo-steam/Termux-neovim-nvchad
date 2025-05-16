@@ -14,9 +14,9 @@
 
 <pre><code>./termux-install-nvchad.sh</code></pre>
 
-### luego de completada la instalación usa los siguientes comandos de neovim para actualizar todo 
+### luego de completada la instalación dentro de neovim pasa al modo comando y usa estos dos comandos para actualizar todo 
 
-<pre><code>:MasonInstallAll</pre></code>
+<pre><code>MasonInstallAll</pre></code>
 
 
 <pre><code></code>Lazy sync</pre></code>
