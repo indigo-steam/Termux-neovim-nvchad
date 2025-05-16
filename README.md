@@ -10,6 +10,8 @@ cd Install-neovim-nvchad/ && chmod +x install-nvchad.sh
 # luego de completada la instalación usa los siguientes comandos de neovim para actualizar todo 
 
 :MasonInstallAll
+
+
 :Lazy sync
 
 # por último elimina el directorio oculto .git 
