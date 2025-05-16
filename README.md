@@ -9,7 +9,7 @@
 
 <pre><code>git clone https://github.com/indigo-steam/Termux-neovim-nvchad.git </code></pre>
 ### dale permisos de ejecución al script
-<pre><code>cd Termux-neovim-nvchad && chmod +x</pre></code>
+<pre><code>cd Termux-neovim-nvchad/ && chmod +x termux-install-nvchad.sh</pre></code>
 ### ejecuta el script 
 
 <pre><code>./install-nvchad.sh</code></pre>
