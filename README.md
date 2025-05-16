@@ -1,6 +1,6 @@
 # termux-neovim-nvchad 
 
-# clona el repositorio y dale permisos de ejecución al scripting 
+# clona el repositorio y dale permisos de ejecución al script 
 
 cd Install-neovim-nvchad/ && chmod +x install-nvchad.sh
 
