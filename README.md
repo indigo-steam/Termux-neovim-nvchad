@@ -5,10 +5,11 @@
 <pre><code>pkg update && pkg upgrade -y</code></pre>
 
 
-### **clona el repositorio y dale permisos de ejecución al script**
+### **clona el repositorio**
 
-<pre><code>git clone https://github.com/indigo-steam/Termux-neovim-nvchad.git && cd Install-neovim-nvchad/ && chmod +x install-nvchad.sh</code></pre>
-
+<pre><code>git clone https://github.com/indigo-steam/Termux-neovim-nvchad.git </code></pre>
+### dale permisos de ejecución al script
+<pre><code>cd Termux-neovim-nvchad && chmod +x</pre></code>
 ### ejecuta el script 
 
 <pre><code>./install-nvchad.sh</code></pre>
