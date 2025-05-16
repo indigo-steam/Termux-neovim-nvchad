@@ -16,7 +16,7 @@
 
 ### una vez instalado nuestro editor precionamos enter y se cierra la ventana actual luego ejecuctamos con el comando nvim mas el nombre de un archivo con su respectiva estencion para que terminen las configuraciones faltantes, damos enter las veces que nos solicite ..
 
-<prer><code>nvim ejemplo.html</pre></code>
+<pre><code>nvim ejemplo.html</pre></code>
 
 ### luego de completada la instalación dentro de neovim pasa al modo comando y usa estos dos comandos para actualizar todo 
 
