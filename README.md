@@ -12,7 +12,7 @@
 <pre><code>cd Termux-neovim-nvchad/ && chmod +x termux-install-nvchad.sh</pre></code>
 ### ejecuta el script 
 
-<pre><code>./install-nvchad.sh</code></pre>
+<pre><code>./termux-install-nvchad.sh</code></pre>
 
 ### luego de completada la instalación usa los siguientes comandos de neovim para actualizar todo 
 
