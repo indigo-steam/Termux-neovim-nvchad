@@ -16,10 +16,10 @@
 
 ### luego de completada la instalación usa los siguientes comandos de neovim para actualizar todo 
 
-:MasonInstallAll
+<pre><code>:MasonInstallAll</pre></code>
 
 
-:Lazy sync
+<pre><code></code>Lazy sync</pre></code>
 
 ### por último elimina el directorio oculto .git 
 
