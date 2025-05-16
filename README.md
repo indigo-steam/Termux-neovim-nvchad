@@ -5,7 +5,7 @@
 <pre><code>pkg update && pkg upgrade -y</code></pre>
 
 
-# clona el repositorio y dale permisos de ejecución al script 
+# **clona el repositorio y dale permisos de ejecución al script**
 
 <pre><code>cd Install-neovim-nvchad/ && chmod +x install-nvchad.sh</code></pre>
 
