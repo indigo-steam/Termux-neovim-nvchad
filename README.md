@@ -14,7 +14,7 @@
 
 <pre><code>./termux-install-nvchad.sh</code></pre>
 
-### una vez instalado nuestro editor precionamosdamos enter las veces que nos solicite, para que terminen las configuraciones faltantes,  ..
+### una vez instalado nuestro editor precionamos enter las veces que nos solicite, para que terminen las configuraciones faltantes,  ..
 
 ### luego de completada la instalación dentro de neovim pasa al modo comando y usa estos dos comandos para actualizar todo 
 
