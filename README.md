@@ -1,8 +1,8 @@
 ## termux-neovim-nvchad 
 
-### **Actulizamos nuestro termux**
+### **Actulizamos nuestro termux e instalamos git**
 
-<pre><code>pkg update && pkg upgrade -y</code></pre>
+<pre><code>pkg update && pkg upgrade -y && pkg install git -y</code></pre>
 
 
 ### **clona el repositorio**
